@@ -1,3 +1,37 @@
+## <p align="center">Google-clone</p>
+
+<p align="center"><a href="http://google-clone.rf.gd/">Google-clone</a></p>
+
+## Getting started
+
+- You need google api key - http://developers.google.com/custom-search/v1/using_rest
+
+- You will need a search engine id CX - https://cse.google.com/cse/create/new
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
